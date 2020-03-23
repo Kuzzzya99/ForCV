@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="legal">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../BSUIR/legal" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../BSUIR/legal" recursive="false" />
+  </library>
+</component>
